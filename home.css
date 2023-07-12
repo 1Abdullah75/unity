@@ -1,0 +1,123 @@
+body{
+    background: #3b2f2f;
+}
+
+.headpic{
+    width: 100%;
+  
+    
+    
+}
+ul{
+    list-style: none;
+}
+li{
+    float:left;
+}
+li a{
+    margin: 13px;
+    padding: 14px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    
+}
+li a:hover  {
+    color: yellowgreen;
+    
+}
+.dropdown{
+    position: relative;
+    
+    
+}
+.dropdowncontent{
+    position: absolute;
+    z-index: 1;
+    min-width: 16px;
+    display: none;
+}
+.dropdown:hover .dropdowncontent{
+    display: block;
+}
+.about{
+    background-image: url(it7.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+    text-align: center;
+}
+.buton{
+    margin-top: 140px;
+    
+}
+.award{
+    background-color: rgb(39, 57, 105);
+    color: white;
+}
+.java{
+    height: auto;
+    background-image: url(bg\ hom.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dota{
+    width: 5px;
+    height: 7px;
+    background: #03a03f;
+    border-radius: 10px;
+    float: left; 
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.dotb{
+    margin-top: 10px;
+    width: 5px;
+    height: 7px;
+    background: #03a03f;
+    border-radius: 10px;
+    float: left; 
+    margin-left: 8px;
+}
+.line{
+    margin-top: 10px;
+    width: 70px;
+    height: 7px;
+    background: #03a03f;
+    border-radius: 10px;
+    float: left; 
+    margin-left: 8px;
+}
+.colt{
+    color: rgb(155, 151, 151);
+}
+.mid{
+    border: 2px solid white;
+}
+.mid:hover{
+    border: 3px solid red;
+}
+.midb{
+    margin-left:40px;
+    border: 2px solid white;
+}
+.midb:hover{
+    border: 3px solid red;
+}
+.midc{
+    border: 2px solid white;
+}
+.midc:hover{
+    border: 3px solid red;
+}
+
+.midd{
+    margin-left: 40px;
+    border: 2px solid white;
+}
+.midd:hover{
+    border: 3px solid red;
+}
+.read{
+    background: #300358;
+}

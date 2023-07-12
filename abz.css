@@ -1,0 +1,338 @@
+/* body{  background-color: rgb(110, 20, 20) ;
+    color: bisque;
+} */
+
+
+.nav{
+       width: 100%;
+       height:  110px;
+       background-color: rgb(0, 0, 0);
+       float: left;
+       
+    
+} 
+ul{
+       list-style: none;
+   }
+   li{
+       float:left;
+   }
+   li a{
+       margin: 23px 0 0 10px;
+       padding: 12px;
+       display: block;
+       text-decoration: none;
+       color: white;
+   }
+   li a:hover  {
+       color: yellowgreen;
+   }
+   .dropdown{
+       position: relative;
+       
+       
+   }
+   .dropdowncontent{
+       position: absolute;
+       z-index: 1;
+       min-width: 16px;
+       display: none;
+   }
+   .dropdown:hover .dropdowncontent{
+       display: block;
+   }
+    
+
+
+
+
+
+
+.bgpic{
+       background-image: url(it5.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-attachment: fixed;
+       height: 500px;
+}
+
+
+.foota:hover, .footb:hover,.footc:hover{
+       background-color: rgb(39, 24, 63);
+.navp{
+       float: left;
+       width: 30%;  
+       height:100%;
+       float: left;
+}
+.pic{
+       width: 100%;
+       height: 100%;
+}
+.navpa{
+       float: left;
+       width: 70%;
+       height: 100%;
+}
+
+.photo{
+       
+              width: 100%;
+       height: 750px;
+       background-color: rgb(255, 255, 255);
+       float: left;
+       margin-left: 1px;
+       margin-right: 1px;
+       background-image: url(it5.jpg);
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-size: 100%;
+       text-align: center;
+       font-size: 100px;
+       text-decoration: underline;         
+}
+.ta{
+       margin-top: 19%;
+}
+.pica{
+       width:100%;
+       height: 100%;
+}
+
+
+.text{
+       float: left;
+       background-color: rgb(240, 215, 215);
+       width: 60%;
+       height: 150px;
+       margin-top: 100px;
+       margin-left: 21%;
+       color: black;
+       text-align: center;
+       
+}
+.textp{
+       width: 80%;
+       /* background-color: black; */
+       float: left;
+       margin-left: 65px;
+       margin-top: 25px;
+       text-align: center;
+}
+.vis{
+       width: 100%;
+      height: 300px;
+       background-color: blue;
+       float: left;
+       background-image: url(it4.webp);
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-size: cover;
+        margin-top: 100px;
+}
+.visa{
+       width: 50%;
+       height: 100%;
+       /* background-color: black; */
+       float: left;
+       text-align: center;
+       word-spacing: 2px;
+       line-height: 26px;
+
+}
+h1{
+       text-align: center;
+       text-decoration: solid underline; 
+}
+.visb{
+       width: 50%;
+       height: 100%;
+       float: left;
+       text-align: center;
+       word-spacing: 2px;
+       line-height: 27px;
+}
+.qu{
+       width: 40%;
+       height: 350px;
+       /* background-color: black; */
+       float: left;
+       margin-top: 120px;
+       margin-left: 6%;
+}
+.picq{
+       width: 100%;
+       height: inherit;
+       
+
+}
+.qua{
+       width: 40%;
+       background-color: black;
+       float: left;
+       height: 350px;
+       margin-top: 120px;
+       margin-left: 7%;
+}
+.picqu{
+       width: 100%;
+       height: inherit;
+}
+.footer{
+       width: 100%;
+       height: 650px;
+       background-color: blueviolet;
+       float: left;
+       margin-top: 105px;
+}
+.foota{
+       width: 25%;
+       height: 510px;
+       background-color: rgb(0, 0, 0);
+     
+}
+.foota{
+       width: 25%;
+       height: 510px;
+       background-color: rgb(112, 100, 100);
+       float: left;
+       margin-left: 100px;
+       margin-top: 80px;
+}
+.footb{
+       width: 25%;
+       height: 510px;
+       background-color: rgb(112, 100, 100);
+       float: left;
+       margin-left: 100px;
+       margin-top: 80px;
+
+}
+.footc{
+       margin-top: 80px;
+       width: 25%;
+       height: 510px;
+       background-color: rgb(112, 100, 100);
+       float: left;
+       margin-left: 100px
+       
+}
+.fa{
+       width: 70%;
+       height: 250px;
+       margin: 16%;
+       
+}
+.fb{
+       width: 70%;
+       height: 250px;
+       margin: 16%;
+}
+.fc{
+       width: 70%;
+       height: 250px;
+       margin: 16%;
+       
+}
+
+}
+.info{
+       width: 100%;
+       height: 1000px;
+       background-color: rgb(22, 1, 29);
+       float: left;       
+}
+.inf{
+       width: 80%;
+       height: 800px;
+       background-color: rgb(23, 8, 53);
+       float: left;
+       margin-top: 100px;
+       margin-left: 151px;
+}
+.infa{
+       width: 30%;
+       height: 400px;
+       float: left;
+       margin-top: 30px;
+       margin-left: 33px;       
+}
+.infb{
+      width: 35%;
+      height: inherit;
+    
+      float: left;
+}
+.inpic{
+       width: 100%;
+       float: left;
+}
+
+.infc{
+       width: 65%;
+       height: inherit;
+       float: left;
+       color: rgb(255, 255, 255);
+       text-align: center;
+       font-size: 17px;
+  
+}
+
+.choo{
+       width: 100%;
+       height: 690px;
+       background-color: rgb(112, 43, 89);
+       float: left;
+       margin-top: 50px;
+       color: black;
+       text-align: center;
+       font-size: xx-large;
+}
+.cho{
+       width: 75%;
+       height: 510px;
+       background-color: rgba(93, 86, 107, 0.575);
+       margin-top: 50px;
+       margin-left: 190px;
+}
+.choa{
+       width: 22%;
+       height: 225px;       
+       float: left;
+       border: 6px solid rgb(15, 3, 37);
+       margin-left: 18px;
+       margin-top: 15px;
+       text-align: center;
+       font-size: x-large;
+       color: white;
+       font-family: Arial, Helvetica, sans-serif;
+}
+.chpic{
+       width: 50%;
+       height: 50%;
+       margin-top: 20px;
+       
+}
+.choa:hover{
+      background-color: rgba(93, 86, 107, 0.945);
+
+}
+ .one{
+       
+       background-image: url(it3.jpg);
+       /* background-attachment: fixed; */
+       background-repeat: repeat;
+       background-size: cover;
+       text-align: center;
+       height: 280px;
+       font-size: x-large;
+       margin-top: 10px;
+}
+.trust{
+       background: #a37c34;
+       height: 625px;
+}
+.trust:hover{
+       background-color: rgb(79, 79, 196);
+}
+

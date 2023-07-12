@@ -1,0 +1,130 @@
+.mission{
+    background-image: url(it13.jpg);
+    background-size: cover;
+    /* background-attachment: fixed; */
+    color: rgb(248, 248, 248);
+}
+.trust{
+    background: #a37c34;
+    height: 625px;
+}
+.trust:hover{
+    background-color: rgb(79, 79, 196);
+}
+.hie{
+    height: 500px;
+}
+.award{
+    background-color: rgb(39, 57, 105);
+    color: white;
+}
+.awards{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.java{
+    height: auto;
+    background-image: url(bg\ hom.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dota{
+    width: 5px;
+    height: 7px;
+    background: #03a03f;
+    border-radius: 10px;
+    float: left; 
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.dotb{
+    margin-top: 10px;
+    width: 5px;
+    height: 7px;
+    background: #03a03f;
+    border-radius: 10px;
+    float: left; 
+    margin-left: 8px;
+}
+.line{
+    margin-top: 10px;
+    width: 70px;
+    height: 7px;
+    background: #03a03f;
+    border-radius: 10px;
+    float: left; 
+    margin-left: 8px;
+}
+.colt{
+    color: rgb(155, 151, 151);
+}
+.mid{
+    border: 2px solid white;
+}
+.mid:hover{
+    border: 3px solid red;
+}
+.midb{
+    margin-left:40px;
+    border: 2px solid white;
+}
+.midb:hover{
+    border: 3px solid red;
+}
+.midc{
+    border: 2px solid white;
+}
+.midc:hover{
+    border: 3px solid red;
+}
+
+.midd{
+    margin-left: 40px;
+    border: 2px solid white;
+}
+.midd:hover{
+    border: 3px solid red;
+}
+.read{
+    background: #300358;
+}
+.contact{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.linec{
+    background: #ddcf0e;
+    height: 8px;
+    width: 120px;
+    margin-left: 20%;
+}
+.lined{
+    background: #ddcf0e;
+    height: 6px;
+    width: 100px;
+    margin-left: 10%;
+}
+.linee{
+    background: #ddcf0e;
+    height: 3px;
+    width: 90px;
+    margin-left: 40%;
+}
+.phon{
+    margin-left: 20aa0px;
+}
+.media{
+    background: #35a744;}   
+.Focus{
+    background: #090031;
+}
+.user{
+    list-style-position: inside;
+    list-style-image: url('tick4.png');
+    font-size:33px;
+    padding: 10px;
+  
+}
+.get{
+    border-radius: 10px;
+    border: 1px solid white;
+}
